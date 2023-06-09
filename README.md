@@ -13,7 +13,7 @@ In this project I worked on making a program with SQL and Node.js to create a si
 
 -using models 
 
--deployed video link: 
+-deployed video link: https://www.youtube.com/watch?v=QDBAoy_UAzs
 
 
 ## GitHub Link
